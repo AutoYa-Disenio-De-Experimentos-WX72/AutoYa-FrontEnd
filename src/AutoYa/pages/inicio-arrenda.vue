@@ -26,7 +26,7 @@
               {{ item.label }}
             </pv-button>
           </router-link>
-          <router-link to="/home">
+          <router-link to="/profile-tenant">
             <!-- Agrega la imagen a la derecha -->
             <img
                 src="https://i.postimg.cc/Fs9Z3g3V/usuario-1.png"
