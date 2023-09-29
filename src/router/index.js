@@ -98,6 +98,7 @@ const router = createRouter({
       name: "manteinance-tenant",
       component: ManteinanceTenant,
     }
+    
   ]
 })
 export default router
