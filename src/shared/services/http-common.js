@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: 'https://autoya.azurewebsites.net/api/v1',
+    baseURL: 'http://localhost:5267/api/v1',
     headers: { 'Content-type': 'application/json' }
 });
